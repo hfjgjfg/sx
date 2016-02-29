@@ -220,6 +220,7 @@ function create_config( )
     "Plugins",
     "xyxy",
     "spam",
+    "spam1",
     "mainfucker",
     "set",
     "get",
