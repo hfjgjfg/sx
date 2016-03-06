@@ -220,7 +220,6 @@ function create_config( )
     "Plugins",
     "xyxy",
     "spam",
-    "spam1",
     "mainfucker",
     "set",
     "get",
@@ -231,7 +230,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {150575718,82009553,183310418,188151898,192877166,103987264,134843111},--Sudo users
+    sudo_users = {150575718,122062757,150474735},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     
